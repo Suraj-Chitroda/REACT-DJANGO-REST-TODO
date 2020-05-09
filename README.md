@@ -1,3 +1,3 @@
 ## First thing 
-Get Frontend and Backend server running get more details in todo_backend and todo_frontend directories. 
+Get Frontend and Backend server running.<br>You can get more details in todo_backend and todo_frontend directories. 
 
