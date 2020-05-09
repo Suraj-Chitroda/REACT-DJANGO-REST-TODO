@@ -1,0 +1,99 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.App-title {
+  text-align: center;
+  font-size: 40px;
+  margin: auto;
+}
+
+.App-p1 {
+  font-size: 20px;
+}
+
+.input-text {
+  margin: 0;
+  display: inline;
+  border: none;
+  min-width: 40%;
+  border-radius: 0.5rem;
+  padding: 18px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.lst ul li button {
+  position: relative;
+  background: #f34541;
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 0.5rem;
+  display: inline-block;
+  border: none;
+  transition-duration: 0.2s;
+}
+
+.del-btn:hover {
+  background: #bb3330;
+}
+
+.ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+.list ul li {
+  display: block;
+  width: 100%;
+  text-decoration: none;
+  color: #000000;
+  background-color: #ffffff;
+  line-height: 30px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #cccccc;
+  padding: 10px;
+  position: relative;
+}
+
+.add-btn {
+  padding: 16px;
+  margin: 10px;
+  min-width: 6%;
+  display: inline-block;
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  background: #00e600;
+  border: none;
+  border-radius: 0.5rem;
+  transition-duration: 0.2s;
+  
+}
+
+.add-btn:hover {
+  background: #009700;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  margin: auto;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
